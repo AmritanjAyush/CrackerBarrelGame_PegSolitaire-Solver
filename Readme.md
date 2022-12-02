@@ -16,7 +16,7 @@ game, and through this project we aim to help them. We have built a solver progr
 that will offer the user with the correct sequence of movements to find a solution, given 
 the starting configuration of the board
 
-The rules of the game are simple and are described below:
+**The rules of the game are simple and are described below:**
 
 ✓ The only action that can be performed in this game is to move a peg from its 
 occupied position to a vacant spot two positions away.
