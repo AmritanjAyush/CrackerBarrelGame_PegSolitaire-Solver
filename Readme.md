@@ -17,10 +17,13 @@ that will offer the user with the correct sequence of movements to find a soluti
 the starting configuration of the board
 
 The rules of the game are simple and are described below:
+
 ✓ The only action that can be performed in this game is to move a peg from its 
 occupied position to a vacant spot two positions away.
+
 ✓ The only condition is that the position between the start and end point must be 
-occupied, completing this move eliminates the peg that was in that position. 
+occupied, completing this move eliminates the peg that was in that position.
+
 ✓ The objective of the game is to remove as many pegs from the board as possible 
 with the ideal goal of only having a single peg left.
 
