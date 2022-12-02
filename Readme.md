@@ -1,3 +1,5 @@
+##About the game 
+
 Millions of people have  played this game, and at first it appears to be very easy. However, after a few moves, 
 reality sets in, and the game no longer feels as simple. 
 
