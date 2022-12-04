@@ -1,5 +1,5 @@
 ## About the game 
-
+This is a solver program for the Cracker Barrel game or Triangular Peg Solitaire.
 Millions of people have  played this game, and at first it appears to be very easy. However, after a few moves, 
 reality sets in, and the game no longer feels as simple. 
 
@@ -9,11 +9,10 @@ representation of how challenging this game may well be.
 One wrong move, and you can watch the finish line steadily edging away from you, until you reach a dead-end. You 
 see that there are more than one pegs left with no more valid moves to make, and with 
 that you realize that you have probably been tricked and maybe winning this game is 
-only a matter of chance and not strategy. (Trust me, we have been there)
+only a matter of chance and not strategy. (Trust me, I've been there)
 
 There are still numerous tenacious people who dream of cracking the Cracker Barrel 
-game, and through this project we aim to help them. We have built a solver program 
-that will offer the user with the correct sequence of movements to find a solution, given 
+game, and through this project it is my aim to help them. This solver program will offer the user with the correct sequence of movements to find a solution, given 
 the starting configuration of the board
 
 **The rules of the game are simple and are described below:**
