@@ -16,6 +16,8 @@ occupied, completing this move eliminates the peg that was in that position.
 ✓ The objective of the game is to remove as many pegs from the board as possible 
 with the ideal goal of only having a single peg left.
 
+![image](https://user-images.githubusercontent.com/119636208/209459242-f5b9b75e-ccbf-4ae4-b597-c62a74756042.png)
+
 Only about 400,000 of the more  than 7.3 million possible permutations yield successful results, which is a good 
 representation of how challenging this game may well be. 
 
